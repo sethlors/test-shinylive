@@ -1,0 +1,17 @@
+constructorId,constructorRef,name,nationality,url,color
+1,mclaren,McLaren,British,http://en.wikipedia.org/wiki/McLaren,#FF9800
+3,williams,Williams,British,http://en.wikipedia.org/wiki/Williams_Grand_Prix_Engineering,#005AFF
+4,renault,Renault,French,http://en.wikipedia.org/wiki/Renault_in_Formula_One,#FFD700
+5,toro_rosso,Toro Rosso,Italian,http://en.wikipedia.org/wiki/Scuderia_Toro_Rosso,#052C7D
+6,ferrari,Ferrari,Italian,http://en.wikipedia.org/wiki/Scuderia_Ferrari,#DC0000
+9,red_bull,Red Bull,Austrian,http://en.wikipedia.org/wiki/Red_Bull_Racing,#1C2743
+10,force_india,Force India,Indian,http://en.wikipedia.org/wiki/Racing_Point_Force_India,#F596C8
+15,sauber,Sauber,Swiss,http://en.wikipedia.org/wiki/Sauber_Motorsport,#9B0000
+51,alfa,Alfa Romeo,Swiss,http://en.wikipedia.org/wiki/Alfa_Romeo_in_Formula_One,#900000
+117,aston_martin,Aston Martin,British,http://en.wikipedia.org/wiki/Aston_Martin_in_Formula_One,#006F62
+131,mercedes,Mercedes,German,http://en.wikipedia.org/wiki/Mercedes-Benz_in_Formula_One,#147970
+210,haas,Haas F1 Team,American,http://en.wikipedia.org/wiki/Haas_F1_Team,#787878
+211,racing_point,Racing Point,British,http://en.wikipedia.org/wiki/Racing_Point_F1_Team,#F596C8
+213,alphatauri,AlphaTauri,Italian,http://en.wikipedia.org/wiki/Scuderia_AlphaTauri,#2B4562
+214,alpine,Alpine F1 Team,French,http://en.wikipedia.org/wiki/Alpine_F1_Team,#2293D1
+215,rb,RB F1 Team,Italian,http://en.wikipedia.org/wiki/RB_Formula_One_Team,#6692FF
