@@ -38,7 +38,7 @@ get_image_path <- function(base_path, id, default_path = "assets/default.jpg") {
 ui <- fluidPage(
   # Link to external CSS file in www directory
   tags$head(
-    tags$link(rel = "stylesheet", type = "text/css", href = "assets/styles.css"),
+    tags$link(rel = "stylesheet", type = "text/css", href = "assets/css/styles.css"),
     # Include all required styles
     tags$style(HTML("
     /* Podium visualization specific styles */
